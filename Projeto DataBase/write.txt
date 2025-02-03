@@ -1,0 +1,3 @@
+How are you?|I am fine.
+What is your name?|My name is Bot.
+How is the weather?|The weather is sunny.
